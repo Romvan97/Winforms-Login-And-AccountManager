@@ -1,0 +1,60 @@
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\bin\Debug\net6.0\Model.dll
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\bin\Debug\net6.0\Model.pdb
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\bin\Debug\net6.0\Model.dll
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\bin\Debug\net6.0\Model.pdb
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO\WinAppFournisseur\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\bin\Debug\net6.0\Model.dll
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\bin\Debug\net6.0\Model.pdb
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\Perso\Desktop\Cours\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\bin\Debug\net6.0\Model.dll
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\bin\Debug\net6.0\Model.pdb
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\vanmo\Desktop\Cours technifutur\Winforms\Exercices\Winforms LABO - Copie\WinAppFournisseur\DAL\obj\Debug\net6.0\ref\DAL.dll
